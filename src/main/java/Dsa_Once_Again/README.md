@@ -91,7 +91,7 @@ To eliminate the "learn and forget" trap, this repository implements a **discipl
 ## 🛠️ How to Run Locally
 
 ### Prerequisites
-- **JDK 17+** installed
+- **JDK 21+** installed
 - **Maven** or IDE (IntelliJ IDEA / VS Code)
 
 ### Compilation & Execution
