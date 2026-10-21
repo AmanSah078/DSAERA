@@ -1,0 +1,5 @@
+str.charAt(i) == str.charAt(str.length()-1-i) ->This is use when u comapre the string word from first to last then i increse and j decrease
+Frequency to find the char then u should use the int[] arr = new int[26]
+arr[ch-'a']++; it tell how mmany time char come
+i<26->Only u can use in to find the freq
+

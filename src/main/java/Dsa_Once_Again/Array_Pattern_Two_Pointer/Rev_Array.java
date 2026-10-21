@@ -1,4 +1,5 @@
-package Dsa_Once_Again.Array_Pattern_Day_1;
+package Dsa_Once_Again.Array_Pattern_Two_Pointer;
+
 
 public class Rev_Array {
 

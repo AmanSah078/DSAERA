@@ -1,0 +1,22 @@
+package Dsa_Once_Again.Practice_Questions_Pair_Wise;
+
+public class Sum_of_Array {
+
+    static void findthesumofarray(int[] arr)
+    {
+        int sum = 0;
+        for(int i=0; i<arr.length; i++)
+        {
+
+            sum += arr[i];
+        }
+        System.out.println("The sum is " + sum);
+    }
+    public static void main(String[] args)
+    {
+       // int[] arr = {1,2,3};
+        int[] arr={15, 12, 13, 10};
+        findthesumofarray(arr);
+    }
+
+}

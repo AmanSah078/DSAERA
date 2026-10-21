@@ -1,0 +1,107 @@
+/
+//value-unique
+//key-cannot
+bcz ek class mein same name ke students ho skte hain no any problem dude
+Syntax:-
+  Map<Integer,String> map = new HashMap<>();
+
+
+Map<Integer,String> map = new HashMap<>();
+
+map.put(101,"Aman");
+map.put(102,"Rahul");
+
+Read all entries:
+
+for(Map.Entry<Integer,String> entry : map.entrySet())
+{
+    System.out.println(
+        entry.getKey() +
+        " -> " +
+        entry.getValue()
+    );
+}
+
+List<Integer> list = new ArrayList<>();
+
+list.add(10);
+list.add(20);
+list.add(30);
+//iterator
+for(Integer num : list)
+{
+    System.out.println(num);
+}
+
+
+/These are the method u can perform the
+put()
+get()
+remove()
+containsKey()
+size()
+
+    HashMap<Integer, Integer> map = new HashMap<Integer, Integer>();
+    for(map.Entry
+
+    Key    Value
+    101 -> Aman
+    102 -> Rahul
+
+    but whenever u r using the get-> Then it return the  key
+
+    want to sort then use the ->list<Integer> list= new ArrayList<>();
+    Collections.sort(list);
+
+
+
+   //DSA
+   if(map.containsKey(arr[i])) -> Elements arr[i] se hi aayenge
+                                  Map to sirf unko store karke rakhta hai.
+
+
+   map.put-> It is used to store the elements in to the map.
+   For the repeaated Element-? We check element is repeated or not
+
+
+
+
+
+
+  //These Below method perform by the Collections
+
+   sort()
+   reverse()
+   max()
+   min()
+   frequency()
+
+
+      map.remove(arr2[i]); //To Remove the Dublicates but from the store eleement
+
+      //To remove from the sorted Array-Two Pointer is Best
+      //To remove from the unsorted Array- Then u can use Hashset
+      Hashset opertation?
+      add()
+
+      👉 Element store karne ke liye
+
+      contains()
+
+      👉 Element present hai ya nahi check karne ke liye
+
+      remove()
+
+      👉 Element delete karne ke liye
+
+      size()
+
+      👉 Total elements kitne hain
+
+      isEmpty()
+
+      👉 Set khali hai ya nahi
+
+      clear()
+
+      👉 Saare elements delete karne ke liye

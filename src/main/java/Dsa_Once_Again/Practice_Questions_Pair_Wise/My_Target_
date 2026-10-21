@@ -1,0 +1,84 @@
+🚀 AMAN FINAL DSA SHEET (LOCKED)
+
+ARRAY (21)
+
+1. Maximum Element->Comp
+2. Minimum Element-comp
+3. Sum of Array-comp
+4. Check Sorted Array ->comp
+5. Reverse Array-comp
+6. Rotate Array by K-comp
+->Mistake->why u take the i=0 and i=arr.length - kya dont used this one
+7. Move Zeroes
+Mistake-> Direct u can take int store=0; insted to use the int store[]= new int[n];
+8. Pair Sum (Two Sum)
+9. Binary Search
+10. First Occurrence
+11. Maximum Sum Subarray (Kadane)
+12. Longest Subarray Sum K
+13. Subarray Sum Equals K
+14. Dutch National Flag (Sort 0,1,2)
+15. Majority Element
+16. Best Time To Buy And Sell Stock
+17. Merge Intervals
+18. Next Permutation
+19. Product of Array Except Self
+20. Leaders in Array
+21. Rearrange Array by Sign (+ve/-ve)
+
+---
+
+STRING (16)
+
+1. Reverse String->Comp
+2. Valid Palindrome->comp
+3. Valid Anagram->comp
+4. First Unique Character->comp
+5. Longest Common Prefix-comp
+6. Roman To Integer-comp
+Mistake->   if(map.get(ch) < map.get(str.charAt(i+1))) ->To compare the char index
+7. Find First Occurrence (strStr)
+//Mistake? My doubt?-if the two string is there then how i can compare
+8. String Compression
+9. Reverse Words In String
+10. Longest Substring Without Repeating Characters
+11. Group Anagrams .yahi tk
+12. Longest Palindromic Substring
+13. Longest Common Subsequence (Basic)
+14. Minimum Window Substring (Concept)
+15. Count Vowels in Window K
+16. Isomorphic Strings
+
+---
+
+HASHMAP (8)
+
+1. Frequency of Elements-comp
+2. First Non-Repeating Element
+3. Two Sum (HashMap Approach)
+4. Intersection of Arrays
+5. Longest Consecutive Sequence
+6. Count Subarray Sum K
+7. Top K Frequent Elements
+8. Contains Duplicate
+
+---
+
+TOTAL = 45 QUESTIONS
+
+RULES
+
+Morning:
+Current Topic (Pepcoding)
+
+Night:
+1 Question from this sheet
+
+Sunday:
+1 Tough Question
+(Dutch Flag / Next Permutation / Merge Intervals / Product Except Self / Group Anagrams)
+
+No new sheets.
+No roadmap changes.
+No comparison.
+Finish this sheet first.

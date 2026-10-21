@@ -1,0 +1,31 @@
+Take first string
+
+↓
+
+Outer loop
+(each character)
+
+↓
+
+Inner loop
+(compare with every string)
+
+↓
+
+Length check
+
+↓
+
+Character check
+
+↓
+
+All matched?
+
+↓
+
+append()
+
+↓
+
+return answer
