@@ -1,6 +1,6 @@
 # 🚀 Master Java DSA: Pattern-Oriented Problem Solving & Interview Preparation
 
-[![Language](https://img.shields.io/badge/Language-Java_17+-ED8B00?style=for-the-badge&logo=java&logoColor=white)](https://www.java.com)
+[![Language](https://img.shields.io/badge/Language-Java_21+-ED8B00?style=for-the-badge&logo=java&logoColor=white)](https://www.java.com)
 [![DSA Grind](https://img.shields.io/badge/DSA-Pattern--Driven_Mastery-4CAF50?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com)
 [![SDE Sheet](https://img.shields.io/badge/Curriculum-Striver_A2Z_Sheet-blue?style=for-the-badge)](https://takeuforward.org)
 [![Interviews](https://img.shields.io/badge/Company_Rounds-TechRays_|_Tescra_|_Emicon-orange?style=for-the-badge)]()
